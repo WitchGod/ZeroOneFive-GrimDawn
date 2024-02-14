@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/nonplayerskillsgdx1/bossskills/pets/turret_witch_hostileaura_buff.dbr,
+instantCast,1,

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Murmur - Rumor,
+buffSkillName,records/skills/devotion/tier2_32d_skill_buff.dbr,

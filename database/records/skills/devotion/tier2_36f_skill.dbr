@@ -1,0 +1,5 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+FileDescription,Harp - Inspiration,
+buffSkillName,records/skills/devotion/tier2_36f_skill_buff.dbr,
+instantCast,1,

@@ -1,0 +1,5 @@
+templateName,database/templates/skillsecondary_onhitbuffradius.tpl,
+Class,SkillSecondary_OnHitBuffRadius,
+buffSkillName,records/skills/playerclass08/spectralarmor2_buff.dbr,
+debuff,1,
+onHitActivationChance,100.000000,

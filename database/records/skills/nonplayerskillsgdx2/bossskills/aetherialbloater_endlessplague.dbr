@@ -1,0 +1,3 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+buffSkillName,records/skills/nonplayerskillsgdx2/bossskills/aetherialbloater_endlessplague_buff.dbr,

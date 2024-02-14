@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/nonplayerskillsgdx2/bossskills/nemesis/sandscion_sandstorm_aura_buff.dbr,
+instantCast,1,

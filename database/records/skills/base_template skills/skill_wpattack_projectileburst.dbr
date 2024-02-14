@@ -1,0 +1,3 @@
+templateName,database/templates/skill_wpattack_projectileburst.tpl,
+Class,Skill_WPAttack_ProjectileBurst,
+FileDescription,passive effect which adds a chance on attack to fire a cone of shots,

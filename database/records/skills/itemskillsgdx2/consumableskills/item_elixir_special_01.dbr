@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradius.tpl,
+Class,Skill_BuffRadius,
+buffSkillName,records/skills/itemskillsgdx2/consumableskills/item_elixir_special_01_buff.dbr,
+instantCast,1,

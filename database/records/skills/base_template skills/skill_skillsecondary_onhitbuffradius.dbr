@@ -1,0 +1,6 @@
+templateName,database/templates/skillsecondary_onhitbuffradius.tpl,
+Class,SkillSecondary_OnHitBuffRadius,
+FileDescription,A skill modifier that casts a buff when the caster is hit - paired with buff skills,
+buffSkillName,records/skills/base_template skills/skill_skillbuff_debuf.dbr,
+debuff,1,
+onHitActivationChance,100.000000,

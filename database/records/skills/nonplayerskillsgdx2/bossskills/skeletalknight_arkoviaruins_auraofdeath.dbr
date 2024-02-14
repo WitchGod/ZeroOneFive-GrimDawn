@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/nonplayerskillsgdx2/bossskills/skeletalknight_arkoviaruins_auraofdeath_buff.dbr,
+instantCast,1,

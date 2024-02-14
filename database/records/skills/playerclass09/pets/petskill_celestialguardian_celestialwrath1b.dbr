@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/playerclass09/pets/petskill_celestialguardian_celestialwrath1b_buff.dbr,
+instantCast,0,

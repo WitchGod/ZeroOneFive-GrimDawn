@@ -1,0 +1,4 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+Class,Skill_BuffRadiusToggled,
+buffSkillName,records/skills/nonplayerskillsgdx1/bossskills/nemesis/chthonian02_auraofoppression_buff.dbr,
+instantCast,1,

@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+Class,Skill_AttackProjectileDebuf,
+buffSkillName,records/skills/nonplayerskillsgdx1/buffoffensive/humanwendigo_wickerprison_buff.dbr,
+projectileNames,records/fx/skillsothergdx1/buffoffensive/humanwendigo_wickerprison01_projectile_fx.dbr,

@@ -1,0 +1,6 @@
+templateName,database/templates/chaosbeam.tpl,
+Class,ChaosBeam,
+Shader,shaders/effects/trailadditive.ssh,
+Texture,fx/textures/lightningstrikecrimson64x128_01.tex,
+TextureStretch,8.000000,
+Width,0.500000,

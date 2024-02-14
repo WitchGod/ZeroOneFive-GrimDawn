@@ -1,0 +1,4 @@
+templateName,database/templates/skill_attackbuff.tpl,
+Class,Skill_AttackBuff,
+FileDescription,Rattosh - Mark of Rattosh,
+buffSkillName,records/skills/devotion/tier3_18f_skill_buff.dbr,
