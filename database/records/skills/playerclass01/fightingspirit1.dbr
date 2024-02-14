@@ -647,7 +647,7 @@ skillDeactivatedSound,records/sounds/skillsounds/class01/spak_rampagedeactivate0
 skillDisplayName,tagClass01SkillName07A,
 skillDownBitmapName,ui/skills/icons/class01/skillicon_fightingspirit1_down.tex,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,2,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class01/skillicon_fightingspirit1_up.tex,

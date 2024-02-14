@@ -656,7 +656,7 @@ skillManaCost,52.000000;57.000000;62.000000;67.000000;72.000000;78.000000;84.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillSpecialAnimationName,Siphon,
 skillSwipeSound,records/sounds/skillsounds/class08/spak_soulsiphon_cast.dbr,
 skillTargetRadius,4.000000;4.400000;4.800000;5.100000;5.400000;5.700000;6.000000;6.300000;6.600000;7.000000;7.300000;7.500000;7.600000;7.700000;7.800000;7.900000;8.000000;8.100000;8.200000;8.300000;8.400000;8.500000,

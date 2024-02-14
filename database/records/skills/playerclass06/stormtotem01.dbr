@@ -288,7 +288,7 @@ skillManaCost,45.000000;49.000000;53.000000;57.000000;61.000000;65.000000;69.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSpecialAnimationName,Totem,
 skillSwipeSound,records/sounds/skillsounds/class06/spak_totem_cast01.dbr,
 skillTier,7,

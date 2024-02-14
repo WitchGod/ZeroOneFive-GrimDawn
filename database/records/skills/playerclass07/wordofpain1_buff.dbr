@@ -590,7 +590,7 @@ skillManaCost,12.000000;14.000000;16.000000;18.000000;20.000000;22.000000;24.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSwipeSound,records/sounds/skillsounds/class07/spak_wordofpain_cast.dbr,
 skillTargetRadius,3.000000,
 skillTier,1,

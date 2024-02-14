@@ -587,7 +587,7 @@ skillManaCost,4.000000;6.000000;8.000000;10.000000;12.000000;14.000000;16.000000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,8,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class05/skillicon_skyshard3up.tex,

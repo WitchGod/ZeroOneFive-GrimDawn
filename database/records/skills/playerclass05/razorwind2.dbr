@@ -668,7 +668,7 @@ skillManaCost,4.000000;6.000000;7.000000;9.000000;10.000000;12.000000;13.000000;
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,5,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class05/skillicon_arcanetempest2up.tex,

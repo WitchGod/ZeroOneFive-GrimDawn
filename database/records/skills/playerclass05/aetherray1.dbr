@@ -303,7 +303,7 @@ skillManaCost,12.000000;15.000000;18.000000;21.000000;24.000000;27.000000;30.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillTier,6,
 skillUltimateLevel,26,
 skillUpBitmapName,ui/skills/icons/class05/skillicon_aetherray1up.tex,

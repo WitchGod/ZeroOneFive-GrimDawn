@@ -654,7 +654,7 @@ skillManaCost,30.000000;33.000000;36.000000;39.000000;42.000000;45.000000;48.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSpecialAnimationName,Blitz,
 skillTargetAngle,180.000000,
 skillTargetNumber,3,

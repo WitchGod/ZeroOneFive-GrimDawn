@@ -711,7 +711,7 @@ skillDownBitmapName,ui/skills/icons/class05/skillicon_elementalinfusion1down.tex
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillSpecialAnimationName,IEE,
 skillTargetRadius,12.000000,
 skillTier,1,

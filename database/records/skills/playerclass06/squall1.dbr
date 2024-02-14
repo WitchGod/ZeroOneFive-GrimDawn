@@ -262,7 +262,7 @@ skillManaCost,60.000000;66.000000;72.000000;78.000000;84.000000;90.000000;96.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillTier,3,
 skillUltimateLevel,26,
 skillUpBitmapName,ui/skills/icons/class06/skillicon_stormcloud1up.tex,

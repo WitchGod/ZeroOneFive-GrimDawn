@@ -30,7 +30,7 @@ skillManaCost,100.000000;105.000000;110.000000;115.000000;120.000000;125.000000;
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillTier,1,
 skillUltimateLevel,26,
 skillUpBitmapName,ui/skills/icons/class03/skillicon_ravensummon1up.tex,

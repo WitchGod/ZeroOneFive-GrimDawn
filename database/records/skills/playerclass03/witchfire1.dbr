@@ -655,7 +655,7 @@ skillDownBitmapName,ui/skills/icons/class03/skillicon_witchfireenchantment1down.
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,2,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class03/skillicon_witchfireenchantment1up.tex,

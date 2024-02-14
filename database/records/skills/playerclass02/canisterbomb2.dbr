@@ -634,7 +634,7 @@ skillManaCost,10.000000;12.000000;14.000000;16.000000;18.000000;20.000000;22.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,10,
+skillMaxLevel,20,
 skillTier,8,
 skillUltimateLevel,20,
 skillUpBitmapName,ui/skills/icons/class02/skillicon_canisterbomb2_up.tex,

@@ -284,7 +284,7 @@ skillManaCost,26.000000;29.000000;32.000000;36.000000;40.000000;44.000000;48.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSpecialAnimationName,RingOfSteel,
 skillSwipeSound,records/sounds/skillsounds/class04/spak_ringofsteel02.dbr,
 skillTargetRadius,4.500000,

@@ -595,7 +595,7 @@ skillDownBitmapName,ui/skills/icons/class05/skillicon_sphereofprotection2down.te
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,10,
+skillMaxLevel,20,
 skillTier,7,
 skillUltimateLevel,20,
 skillUpBitmapName,ui/skills/icons/class05/skillicon_sphereofprotection2up.tex,

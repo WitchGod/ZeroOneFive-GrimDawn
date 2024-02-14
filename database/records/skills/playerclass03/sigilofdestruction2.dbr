@@ -631,7 +631,7 @@ skillManaCost,5.000000;8.000000;11.000000;14.000000;17.000000;20.000000;23.00000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,6,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class03/skillicon_sigilofdestruction2up.tex,

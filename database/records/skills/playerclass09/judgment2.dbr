@@ -668,7 +668,7 @@ skillManaCost,4.000000;5.000000;6.000000;7.000000;8.000000;9.000000;10.000000;11
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,6,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class09/skillicon_judgment2up.tex,

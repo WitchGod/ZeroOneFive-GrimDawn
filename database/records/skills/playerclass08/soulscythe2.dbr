@@ -631,7 +631,7 @@ skillManaCost,3.000000;3.000000;4.000000;4.000000;5.000000;5.000000;6.000000;6.0
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,5,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class08/skillicon_boneharvest2up.tex,

@@ -611,7 +611,7 @@ skillDownBitmapName,ui/skills/icons/class05/skillicon_sphereofprotection1down.te
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillSound1,records/sounds/skillsounds/class05/spak_aether_shield_drone.dbr,
 skillTier,4,
 skillUltimateLevel,22,

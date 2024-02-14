@@ -290,7 +290,7 @@ skillManaCost,102.000000;110.000000;117.000000;124.000000;131.000000;138.000000;
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillSpecialAnimationName,Doombolt,
 skillTargetRadius,3.000000,
 skillTier,8,

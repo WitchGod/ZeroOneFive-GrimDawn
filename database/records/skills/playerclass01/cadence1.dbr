@@ -300,7 +300,7 @@ skillManaCost,1.000000;1.000000;1.000000;1.000000;1.000000;2.000000;2.000000;2.0
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSpecialAnimationName,Cadence,
 skillTier,1,
 skillUltimateLevel,26,

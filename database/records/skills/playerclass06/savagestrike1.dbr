@@ -652,7 +652,7 @@ skillManaCost,22.000000;25.000000;28.000000;32.000000;36.000000;40.000000;44.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillProjectileNumber,1,
 skillSpecialAnimationName,PrimalStrike,
 skillTargetRadius,3.800000,

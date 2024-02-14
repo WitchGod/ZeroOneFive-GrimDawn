@@ -655,7 +655,7 @@ skillManaCost,30.000000;33.000000;37.000000;41.000000;45.000000;49.000000;53.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,3,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class01/skillicon_overguard1_up.tex,
