@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;92,
+records,records/items/loottables/gearaccessories/tdyn_necklace_d202_sandking.dbr;records/items/loottables/gearaccessories/tdyn_necklace_d202b_sandking.dbr,

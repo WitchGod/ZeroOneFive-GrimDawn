@@ -1,0 +1,5 @@
+templateName,database/templates/setpiece.tpl,
+Class,SetPiece,
+placementChance,100.000000,
+pool1,records/items/lootchests/oneshotchests/d23_set_oneshotchest_portvalbury.dbr,
+weight1,100,

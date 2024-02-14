@@ -308,7 +308,7 @@ skillTemplates,records/skills/base_template skills/skill_buffattackradiusduratio
 skillUltimateLevel,1,
 skillUpBitmapName,ui/skills/icons/skillicon_devotionstar01_up.tex,
 targetingMode,Target,
-templateAutoCast,records/controllers/itemskills/cast_@enemyonanyhit_30%.dbr,
+templateAutoCast,records/controllers/itemskills_zof/cast_@enemyonanyhit_30%.dbr,
 unarmedOnly,0,
 useTargetDir,1,
 waveDepth,1.000000,

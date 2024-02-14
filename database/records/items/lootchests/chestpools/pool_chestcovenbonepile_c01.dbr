@@ -1,0 +1,5 @@
+templateName,database/templates/proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records/items/lootchests/breakables/a01_witchbonepile01_break.dbr,
+fixedItemWeight1,100,

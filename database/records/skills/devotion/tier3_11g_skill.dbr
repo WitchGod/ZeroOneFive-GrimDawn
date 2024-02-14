@@ -269,4 +269,4 @@ spawnObjects,records/skills/devotion/pets/pet_elementalseeker_01.dbr;records/ski
 spawnObjectsTimeToLive,3.000000,
 targetFxPakName,records/fx/skillsdevotion/elementalseeker_summon_fxpak01.dbr,
 targetingMode,Point,
-templateAutoCast,records/controllers/itemskills/cast_@enemyonattack_100%.dbr,
+templateAutoCast,records/controllers/itemskills_zof/cast_@enemyonattack_100%.dbr,

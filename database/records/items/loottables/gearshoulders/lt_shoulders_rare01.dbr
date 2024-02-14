@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;40;94,
+records,records/items/loottables/gearshoulders/tdyn_shoulders_rare01.dbr;records/items/loottables/gearshoulders/tdyn_shoulders_rare02.dbr;records/items/loottables/gearshoulders/tdyn_shoulders_rare03.dbr,

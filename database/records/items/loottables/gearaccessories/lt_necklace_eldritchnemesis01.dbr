@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;85;95,
+records,records/items/loottables/gearaccessories/tdyn_necklace_b201_eldritchnemesis_01.dbr;records/items/loottables/gearaccessories/tdyn_necklace_b201_eldritchnemesis_02.dbr;records/items/loottables/gearaccessories/tdyn_necklace_b201_eldritchnemesis_03.dbr,

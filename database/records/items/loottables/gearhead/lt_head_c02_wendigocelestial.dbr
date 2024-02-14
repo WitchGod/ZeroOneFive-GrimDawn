@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;92,
+records,records/items/loottables/gearhead/tdyn_head_c104_wendigocelestial.dbr;records/items/loottables/gearhead/tdyn_head_c104_wendigocelestial2.dbr,

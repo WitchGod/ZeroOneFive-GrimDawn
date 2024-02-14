@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;72;94,
+records,records/items/loottables/enemyspecific/tdyn_melee2h_c201_roguelikebossbroken.dbr;records/items/loottables/weapons/tdyn_melee2h_c201_roguelikeboss.dbr;records/items/loottables/weapons/tdyn_melee2h_d201_roguelikeboss.dbr,

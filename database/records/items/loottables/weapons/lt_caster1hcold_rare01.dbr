@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;40;95,
+records,records/items/loottables/weapons/tdyn_caster1hcold_rare01.dbr;records/items/loottables/weapons/tdyn_caster1hcold_rare02.dbr;records/items/loottables/weapons/tdyn_caster1hcold_rare03.dbr,
