@@ -661,7 +661,7 @@ skillDownBitmapName,ui/skills/icons/class05/skillicon_elementalinfusion3down.tex
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,6,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class05/skillicon_elementalinfusion3up.tex,

@@ -281,7 +281,7 @@ skillManaCost,20.000000;24.000000;28.000000;33.000000;38.000000;43.000000;48.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillProjectileHitTimeToLive,0.000000,
 skillProjectileMissTimeToLive,0.000000,
 skillProjectileName,records/fx/skillclass02/flashbang1_projectile_fx01.dbr;records/fx/skillclass02/flashbang1_projectile_fx01.dbr;records/fx/skillclass02/flashbang1_projectile_fx01.dbr;records/fx/skillclass02/flashbang1_projectile_fx01.dbr;records/fx/skillclass02/flashbang1_projectile_fx01.dbr;records/fx/skillclass02/flashbang1_projectile_fx01.dbr;records/fx/skillclass02/flashbang1_projectile_fx01.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr;records/fx/skillclass02/flashbang1_projectile_fx02.dbr,

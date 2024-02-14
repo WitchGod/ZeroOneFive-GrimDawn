@@ -301,7 +301,7 @@ skillManaCost,16.000000;17.000000;19.000000;21.000000;23.000000;25.000000;27.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSpecialAnimationName,Forcewave,
 skillSwipeSound,records/sounds/skillsounds/class01/spak_forcewave.dbr,
 skillTier,1,

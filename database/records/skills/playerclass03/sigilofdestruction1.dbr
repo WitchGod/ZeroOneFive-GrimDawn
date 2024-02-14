@@ -264,7 +264,7 @@ skillManaCost,32.000000;36.000000;41.000000;47.000000;53.000000;59.000000;65.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillProjectileName,records/fx/skillclass03/sigilofdestruction_projectilefx01.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01a.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01a.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01a.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01b.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01b.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01b.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr;records/fx/skillclass03/sigilofdestruction_projectilefx01c.dbr,
 skillTier,3,
 skillUltimateLevel,22,

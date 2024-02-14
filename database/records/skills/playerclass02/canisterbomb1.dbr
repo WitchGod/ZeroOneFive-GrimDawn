@@ -291,7 +291,7 @@ skillManaCost,40.000000;45.000000;50.000000;55.000000;60.000000;65.000000;70.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillProjectileHitTimeToLive,0.000000,
 skillProjectileMissTimeToLive,0.000000,
 skillProjectileName,records/fx/skillclass02/canisterbomb1_fxprojectile.dbr,

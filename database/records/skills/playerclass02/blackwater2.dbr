@@ -632,7 +632,7 @@ skillManaCost,3.000000;4.000000;5.000000;6.000000;7.000000;8.000000;9.000000;10.
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,5,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class02/skillicon_molotov2_up.tex,

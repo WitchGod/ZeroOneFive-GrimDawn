@@ -287,7 +287,7 @@ skillManaCost,100.000000;104.000000;108.000000;112.000000;116.000000;120.000000;
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSwipeSound,records/sounds/skillsounds/class04/spak_bladespirit_spawn.dbr,
 skillTier,9,
 skillUltimateLevel,26,

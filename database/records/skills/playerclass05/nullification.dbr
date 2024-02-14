@@ -276,7 +276,7 @@ skillManaCost,55.000000;61.000000;68.000000;74.000000;80.000000;86.000000;92.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,10,
+skillMaxLevel,20,
 skillProjectileName,records/fx/skillclass05/nullification2_projectilefx01.dbr;records/fx/skillclass05/nullification2_projectilefx01.dbr;records/fx/skillclass05/nullification2_projectilefx01.dbr;records/fx/skillclass05/nullification2_projectilefx01.dbr;records/fx/skillclass05/nullification2_projectilefx01.dbr;records/fx/skillclass05/nullification2_projectilefx02.dbr;records/fx/skillclass05/nullification2_projectilefx02.dbr;records/fx/skillclass05/nullification2_projectilefx02.dbr;records/fx/skillclass05/nullification2_projectilefx02.dbr;records/fx/skillclass05/nullification2_projectilefx02.dbr;records/fx/skillclass05/nullification2_projectilefx02.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr;records/fx/skillclass05/nullification2_projectilefx03.dbr,
 skillSpecialAnimationName,SlowCast,
 skillSwipeSound,records/sounds/skillsounds/class05/spak_nullification_02.dbr,

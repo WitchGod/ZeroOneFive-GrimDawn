@@ -636,7 +636,7 @@ skillManaCost,3.000000;3.000000;3.000000;4.000000;4.000000;4.000000;5.000000;5.0
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTargetAngle,100.000000,
 skillTargetNumber,6;6;6;7;7;7;7;7;7;7;7;8;8;8;8;8;8;8;8;8;8;9,
 skillTier,7,

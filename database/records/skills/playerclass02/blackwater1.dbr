@@ -291,7 +291,7 @@ skillManaCost,15.000000;17.000000;18.000000;20.000000;21.000000;23.000000;24.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillProjectileName,records/fx/skillsother/projectile_aoe/molotov1_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov1_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov1_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov2_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov2_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov2_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov2_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov3_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov3_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov3_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov3_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr;records/fx/skillsother/projectile_aoe/molotov4_projectilefx01.dbr,
 skillProjectileNumber,1,
 skillProjectileTargetGroundOnly,1,

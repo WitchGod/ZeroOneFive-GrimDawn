@@ -565,7 +565,7 @@ skillManaCost,5.000000;6.000000;7.000000;8.000000;9.000000;10.000000;11.000000;1
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,10,
+skillMaxLevel,20,
 skillTier,5,
 skillUltimateLevel,20,
 skillUpBitmapName,ui/skills/icons/class07/skillicon_wordofrenewal2up.tex,

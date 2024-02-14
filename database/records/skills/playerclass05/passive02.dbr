@@ -684,7 +684,7 @@ skillDeactivatedSound,records/sounds/skillsounds/class05/spak_arcanewill_deactiv
 skillDisplayName,tagClass05SkillName10A,
 skillDownBitmapName,ui/skills/icons/class05/skillicon_passive02down.tex,
 skillMasteryLevelRequired,0,
-skillMaxLevel,10,
+skillMaxLevel,20,
 skillTier,4,
 skillUltimateLevel,20,
 skillUpBitmapName,ui/skills/icons/class05/skillicon_passive02up.tex,

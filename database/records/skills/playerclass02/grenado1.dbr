@@ -287,7 +287,7 @@ skillManaCost,25.000000;28.000000;31.000000;34.000000;37.000000;40.000000;43.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillProjectileHitTimeToLive,0.000000,
 skillProjectileMissTimeToLive,0.000000,
 skillProjectileName,records/fx/skillclass02/grenado1_fxprojectile.dbr,

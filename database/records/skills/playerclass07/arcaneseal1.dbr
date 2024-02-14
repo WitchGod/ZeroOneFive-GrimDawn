@@ -290,7 +290,7 @@ skillManaCost,45.000000;50.000000;55.000000;60.000000;65.000000;70.000000;75.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillSwipeSound,records/sounds/skillsounds/class07/spak_inquisitorseal_cast.dbr,
 skillTier,6,
 skillUltimateLevel,22,

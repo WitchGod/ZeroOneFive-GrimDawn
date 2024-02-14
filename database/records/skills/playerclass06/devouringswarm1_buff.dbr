@@ -653,7 +653,7 @@ skillManaCost,12.000000;14.000000;16.000000;19.000000;22.000000;25.000000;28.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSwipeSound,records/sounds/skillsounds/class06/spak_devouringswarm_cast.dbr,
 skillTier,1,
 skillUltimateLevel,26,

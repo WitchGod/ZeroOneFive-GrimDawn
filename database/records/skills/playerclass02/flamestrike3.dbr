@@ -634,7 +634,7 @@ skillManaCost,2.000000;2.000000;2.000000;3.000000;3.000000;3.000000;4.000000;4.0
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,6,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class02/skillicon_firestrike3_up.tex,

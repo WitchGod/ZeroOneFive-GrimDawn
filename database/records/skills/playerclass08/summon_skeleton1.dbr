@@ -293,7 +293,7 @@ skillManaCost,80.000000;86.000000;92.000000;98.000000;105.000000;112.000000;119.
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSpecialAnimationName,RaiseDead,
 skillSwipeSound,records/sounds/skillsounds/class08/spak_raiseskeleton_cast.dbr,
 skillTier,1,

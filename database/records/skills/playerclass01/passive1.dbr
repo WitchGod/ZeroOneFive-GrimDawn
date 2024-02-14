@@ -635,7 +635,7 @@ skillDownBitmapName,ui/skills/icons/class01/skillicon_militaryconditioning1_down
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,10,
+skillMaxLevel,20,
 skillTier,2,
 skillUltimateLevel,20,
 skillUpBitmapName,ui/skills/icons/class01/skillicon_militaryconditioning1_up.tex,

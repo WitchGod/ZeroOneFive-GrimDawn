@@ -272,7 +272,7 @@ skillManaCost,2.000000;2.000000;3.000000;3.000000;4.000000;4.000000;5.000000;5.0
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillTier,1,
 skillUltimateLevel,26,
 skillUpBitmapName,ui/skills/icons/class08/skillicon_drainessence1up.tex,

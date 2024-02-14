@@ -255,7 +255,7 @@ skillManaCost,40.000000;44.000000;49.000000;55.000000;61.000000;67.000000;73.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillProjectileName,records/fx/skillclass08/ravenousearth_projectile01.dbr,
 skillTier,4,
 skillUltimateLevel,26,

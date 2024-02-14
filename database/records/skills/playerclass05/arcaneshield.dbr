@@ -695,7 +695,7 @@ skillManaCost,50.000000;62.000000;74.000000;86.000000;98.000000;110.000000;122.0
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,3,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class05/skillicon_arcaneshield1up.tex,

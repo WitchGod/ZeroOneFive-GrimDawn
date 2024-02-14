@@ -262,7 +262,7 @@ skillManaCost,20.000000;23.000000;26.000000;29.000000;32.000000;36.000000;40.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSpecialAnimationName,Totem,
 skillTier,2,
 skillUltimateLevel,26,

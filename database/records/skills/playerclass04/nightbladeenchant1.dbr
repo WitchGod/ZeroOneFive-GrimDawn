@@ -662,7 +662,7 @@ skillManaCost,18.000000;20.000000;23.000000;26.000000;29.000000;32.000000;35.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,2,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class04/skillicon_nightbladeenchant1up.tex,

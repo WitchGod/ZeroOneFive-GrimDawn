@@ -28,7 +28,7 @@ skillManaCost,200.000000;210.000000;220.000000;230.000000;240.000000;250.000000;
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,9,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class06/skillicon_manticoresummon1up.tex,

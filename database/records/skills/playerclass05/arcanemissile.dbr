@@ -285,7 +285,7 @@ skillManaCost,10.000000;11.000000;12.000000;13.000000;14.000000;15.000000;16.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillProjectileName,records/fx/skillclass05/arcanemissile_fxprojectile.dbr,
 skillProjectileNumber,1,
 skillProjectileTargetGroundOnly,0,

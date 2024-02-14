@@ -640,7 +640,7 @@ skillManaCost,6.000000;7.000000;8.000000;9.000000;10.000000;11.000000;12.000000;
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillSpecialAnimationName,AttackSweep,
 skillSwipeSound,records/sounds/skillsounds/class01/spak_bladearc.dbr,
 skillTargetAngle,180.000000,

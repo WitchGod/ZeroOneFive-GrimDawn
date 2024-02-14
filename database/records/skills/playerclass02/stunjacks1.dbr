@@ -288,7 +288,7 @@ skillManaCost,18.000000;20.000000;22.000000;24.000000;27.000000;29.000000;31.000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,16,
+skillMaxLevel,26,
 skillProjectileName,records/fx/skillclass02/stunjacks1_projectile_fx01.dbr,
 skillSpecialAnimationName,FastThrow,
 skillSwipeSound,records/sounds/human/vocals/spak_malevocalthrow.dbr,

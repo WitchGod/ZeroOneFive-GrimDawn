@@ -641,7 +641,7 @@ skillManaCost,4.000000;6.000000;9.000000;12.000000;15.000000;18.000000;21.000000
 skillManaCostReduction,0.000000,
 skillManaCostReductionModifier,0.000000,
 skillMasteryLevelRequired,0,
-skillMaxLevel,12,
+skillMaxLevel,22,
 skillTier,8,
 skillUltimateLevel,22,
 skillUpBitmapName,ui/skills/icons/class01/skillicon_battlefury2_up.tex,
