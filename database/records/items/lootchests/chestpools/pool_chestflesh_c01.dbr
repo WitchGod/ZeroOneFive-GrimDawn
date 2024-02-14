@@ -1,0 +1,7 @@
+templateName,database/templates/proxyaccessorypool.tpl,
+Class,ProxyAccessoryPool,
+fixedItemChance,100,
+fixedItemName1,records/items/lootchests/b01_chestcorpse02.dbr,
+fixedItemName2,records/items/lootchests/c01_chestflesh01.dbr,
+fixedItemWeight1,67,
+fixedItemWeight2,33,

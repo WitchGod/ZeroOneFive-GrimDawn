@@ -285,6 +285,6 @@ skillTemplates,records/skills/base_template skills/skill_attackprojectile.dbr;re
 skillUltimateLevel,1,
 skillUpBitmapName,ui/skills/icons/skillicon_devotionstar01_up.tex,
 targetingMode,Point,
-templateAutoCast,records/controllers/itemskills/cast_@enemyonattack_15%.dbr,
+templateAutoCast,records/controllers/itemskills_zof/cast_@enemyonattack_15%.dbr,
 unarmedOnly,0,
 weaponDamagePct,15.000000,

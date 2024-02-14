@@ -265,5 +265,5 @@ skillTemplates,records/skills/base_template skills/skill_buffattackradiusduratio
 skillUltimateLevel,1,
 skillUpBitmapName,ui/skills/icons/skillicon_devotionstar01_up.tex,
 targetFxPakName,records/fx/skillsother/attackmelee/firestrike01_fxpak.dbr,
-templateAutoCast,records/controllers/itemskills/cast_@selfonanyhit_20%.dbr,
+templateAutoCast,records/controllers/itemskills_zof/cast_@selfonanyhit_20%.dbr,
 weaponDamagePct,33.000000;35.000000;36.000000;38.000000;39.000000;41.000000;42.000000;44.000000;45.000000;47.000000;48.000000;50.000000;51.000000;53.000000;54.000000,

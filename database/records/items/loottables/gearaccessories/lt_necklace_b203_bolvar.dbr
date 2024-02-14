@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;8;30,
+records,records/items/loottables/misc/tdyn_potions_a01.dbr;records/items/loottables/gearaccessories/tdyn_necklace_a01.dbr;records/items/loottables/gearaccessories/tdyn_necklace_b203_cultistbolvar.dbr,

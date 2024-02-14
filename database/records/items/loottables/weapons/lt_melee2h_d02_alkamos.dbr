@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;70,
+records,records/items/loottables/weapons/tdyn_melee2h_b02_alkamos.dbr;records/items/loottables/weapons/tdyn_melee2h_d02_alkamos.dbr,

@@ -31,4 +31,4 @@ skillTemplates,records/skills/base_template skills/skill_attackprojectile.dbr;re
 skillUltimateLevel,1,
 skillUpBitmapName,ui/skills/icons/skillicon_devotionstar01_up.tex,
 targetFxPakName,records/fx/skillsdevotion/aeonshourglass_cast01_fxpak.dbr,
-templateAutoCast,records/controllers/itemskills/cast_@selfonattack_20%.dbr,
+templateAutoCast,records/controllers/itemskills_zof/cast_@selfonattack_20%.dbr,

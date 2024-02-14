@@ -726,4 +726,4 @@ skillTemplates,records/skills/base_template skills/skill_attackprojectile.dbr;re
 skillUltimateLevel,1,
 skillUpBitmapName,ui/skills/icons/skillicon_devotionstar01_chaos_up.tex,
 targetingMode,Point,
-templateAutoCast,records/controllers/itemskills/cast_@enemyonattack_30%.dbr,
+templateAutoCast,records/controllers/itemskills_zof/cast_@enemyonattack_30%.dbr,

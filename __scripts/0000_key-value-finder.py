@@ -25,6 +25,10 @@ def find_key_value(key, type="player_skills", skip="_", value_match=None):
         target_dir = target_dir / "database/records/skills/"
         target_skills = list(target_dir.glob("playerclass*/*.dbr"))
 
+    if type == "item_skills":
+        target_dir = target_dir / "database/records/skills/"
+        target_skills = list(target_dir.glob("itemskills*/**/*.dbr"))
+
     for skill in target_skills:
         if skill.stem.startswith(skip):
             continue
@@ -41,5 +45,6 @@ def find_key_value(key, type="player_skills", skip="_", value_match=None):
 
 
 if __name__ == "__main__":
-    key = "exclusiveSkill"
-    find_key_value(key, "player_skills", skip="_class", value_match="1")
+    key = "autoCastController"
+    # find_key_value(key, "player_skills", skip="_class", value_match="1")
+    find_key_value(key, "all_skills")

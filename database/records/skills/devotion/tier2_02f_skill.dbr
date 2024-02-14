@@ -291,6 +291,6 @@ skillTemplates,records/skills/base_template skills/skill_buffattackradiusduratio
 skillUltimateLevel,1,
 skillUpBitmapName,ui/skills/icons/skillicon_devotionstar01_up.tex,
 targetFxPakName,records/fx/skillsdevotion/scalesofulcama01_fxpak.dbr,
-templateAutoCast,records/controllers/itemskills/cast_@enemyonanyhit_33%.dbr,
+templateAutoCast,records/controllers/itemskills_zof/cast_@enemyonanyhit_33%.dbr,
 unarmedOnly,0,
 weaponDamagePct,12.000000;13.000000;14.000000;15.000000;16.000000;17.000000;18.000000;19.000000;20.000000;21.000000;22.000000;23.000000;24.000000;25.000000;26.000000;27.000000;28.000000;29.000000;30.000000;33.000000,

@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;85;95,
+records,records/items/loottables/gearlegs/tdyn_legs_b103_beastnemesis.dbr;records/items/loottables/gearlegs/tdyn_legs_b103_beastnemesis_02.dbr;records/items/loottables/gearlegs/tdyn_legs_b103_beastnemesis_03.dbr,

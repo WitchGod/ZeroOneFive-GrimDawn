@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;40;94,
+records,records/items/loottables/gearhead/tdyn_headcaster_rare01.dbr;records/items/loottables/gearhead/tdyn_headcaster_rare02.dbr;records/items/loottables/gearhead/tdyn_headcaster_rare03.dbr,

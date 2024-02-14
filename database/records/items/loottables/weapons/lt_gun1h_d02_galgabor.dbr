@@ -1,0 +1,4 @@
+templateName,database/templates/leveltable.tpl,
+Class,LevelTable,
+levels,1;56;92,
+records,records/items/loottables/weapons/tdyn_gun1h_rare01.dbr;records/items/loottables/weapons/tdyn_gun1h_c102_gargabol.dbr;records/items/loottables/weapons/tdyn_gun1h_d102_gargabol.dbr,
