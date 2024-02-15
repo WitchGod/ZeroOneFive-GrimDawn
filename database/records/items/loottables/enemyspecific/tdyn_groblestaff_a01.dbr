@@ -1,7 +1,7 @@
 templateName,database/templates/lootitemtable_dynweighted_dynaffix.tpl,
 Class,LootItemTable_DynWeight,
 bellSlope,450.000000;50.000000;500.000000,
-bothPrefixSuffix,0,
+bothPrefixSuffix,5000000,
 brokenOnly,100,
 brokenTableName1,records/items/lootaffixes/broken/table_brokenweapon01.dbr,
 lootName1,records/items/enemygear/m01_groblestaff001.dbr,
