@@ -54,10 +54,8 @@ def allow_double_rare_affixes(table_dir):
                     value = 0.0
             relative_path = Path(target_table).relative_to(base_path)
             logger.info(f"{relative_path} - rkey: {rkey} - value: {value}")
-            if rkey not in ["rareBothPrefixSuffix"]:
-                df.loc[df["key"] == rkey, "value"] = 0.0
-            else:
-                df.loc[df["key"] == rkey, "value"] = 500000.0
+            if rkey in ["bothPrefixSuffix", "rareBothPrefixSuffix"]:
+                df.loc[df["key"] == rkey, "value"] = 5000000
 
         df.to_csv(
             target_table,
