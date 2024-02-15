@@ -54,7 +54,7 @@ def max_out_items(item_dir, params_to_max):
     target_items = list(item_dir.glob("**/*.dbr"))
     base_path = Path(os.path.commonprefix(target_items))
 
-    for target_item in target_items[:5000]:
+    for target_item in target_items:
         df = pd.read_csv(target_item, sep=",", index_col=False, names=["key", "value"])
         skill_keys = df["key"].tolist()
         if (
@@ -111,6 +111,10 @@ def max_out_items(item_dir, params_to_max):
                         break
                 print(f"\t{fkey} : {orig_value} : {max_value}")
                 df.loc[df["key"] == fkey, "value"] = max_value
+            if "attributeScalePercent" in skill_keys:
+                df.loc[df["key"] == "attributeScalePercent", "value"] = 0.0
+            if "lootRandomizerJitter" in skill_keys:
+                df.loc[df["key"] == "lootRandomizerJitter", "value"] = 0.0
 
         df.to_csv(
             target_item,
