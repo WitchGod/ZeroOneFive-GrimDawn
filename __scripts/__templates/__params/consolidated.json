@@ -1,0 +1,7919 @@
+[
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveGlobalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "100"
+    },
+    {
+        "name": "offensive1Type",
+        "class": "picklist",
+        "type": "string",
+        "value": "",
+        "default_value": "None;Physical;PierceRatio;Pierce;Fire;Cold;Lightning;Poison;Life;Stun;"
+    },
+    {
+        "name": "offensive1Min",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensive1Max",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensive1Deviation",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensive1Chance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "100"
+    },
+    {
+        "name": "offensive1Modifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensive1ModifierDeviation",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensive1ModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "100"
+    },
+    {
+        "name": "offensive1UseGlobalChance",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensive1XOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1Type",
+        "class": "picklist",
+        "type": "string",
+        "value": "",
+        "default_value": "None;Physical;Pierce;Fire;Cold;Lightning;Poison;Life;AttackSpeed;RunSpeed;LifeLeach;ManaLeach;OffensiveAbility;DefensiveAbility;OffensiveReduction;"
+    },
+    {
+        "name": "offensiveSlow1Min",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1Max",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1Deviation",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1DurationMin",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1DurationMax",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1DurationDeviation",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1Chance",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1Modifier",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1ModifierChance",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1ModifierDeviation",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1DurationModifier",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1DurationModifierChance",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1DurationModifierDeviation",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1UseGlobalChance",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlow1XOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": "ParameterStoreCharacter"
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterBaseAttackSpeed",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterBaseAttackSpeedTag",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": "CharacterAttackSpeedAverage"
+    },
+    {
+        "name": "characterStrength",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDexterity",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterIntelligence",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterLife",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterMana",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterStrengthModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDexterityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterIntelligenceModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterLifeModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterLifeMultModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterIncreasedExperience",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterLightRadius",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterRunSpeed",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterRunSpeedJitter",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterAttackSpeed",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterSpellCastSpeed",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterRunSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterAttackSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterSpellCastSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterTotalSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterRunSpeedMaxModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterAttackSpeedMaxModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterSpellCastSpeedMaxModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterLifeRegen",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaRegen",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterLifeRegenModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaRegenModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterConstitution",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterConstitutionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterHealIncreasePercent",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterPercentHealIncreaseModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterOffensiveAbility",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDefensiveAbility",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterOffensiveAbilityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDefensiveAbilityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDefensiveBlockRecoveryReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterEnergyAbsorptionPercent",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterDodgePercent",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterDeflectProjectile",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterManaLimitReserve",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaLimitReserveReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaLimitReserveModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaLimitReserveReductionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterGlobalReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeaponStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeaponDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeaponIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterMeleeStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterMeleeDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterMeleeIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterHuntingStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterHuntingDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterHuntingIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterStaffStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterStaffDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterStaffIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeapon2HStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeapon2HDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeapon2HIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterShieldStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterShieldDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterShieldIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterArmorStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterArmorDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterArmorIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterJewelryStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterJewelryDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterJewelryIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterLevelReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Object Variable",
+        "class": "static",
+        "type": "eqnVariable",
+        "value": "",
+        "default_value": "characterLevelDV"
+    },
+    {
+        "name": "Object Variable",
+        "class": "static",
+        "type": "eqnVariable",
+        "value": "",
+        "default_value": "charLevel"
+    },
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": "ParameterStoreCharacter"
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterBaseAttackSpeed",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterBaseAttackSpeedTag",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": "CharacterAttackSpeedAverage"
+    },
+    {
+        "name": "characterStrength",
+        "class": "variable",
+        "type": "equation",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterDexterity",
+        "class": "variable",
+        "type": "equation",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterIntelligence",
+        "class": "variable",
+        "type": "equation",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterLife",
+        "class": "variable",
+        "type": "equation",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterMana",
+        "class": "variable",
+        "type": "equation",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterStrengthModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDexterityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterIntelligenceModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterLifeModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterIncreasedExperience",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterRunSpeed",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterRunSpeedJitter",
+        "class": "variable",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterAttackSpeed",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterSpellCastSpeed",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterRunSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterAttackSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterSpellCastSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterTotalSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterLifeRegen",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaRegen",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterLifeRegenModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaRegenModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterOffensiveAbility",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDefensiveAbility",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterOffensiveAbilityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDefensiveAbilityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterDefensiveBlockRecoveryReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterEnergyAbsorptionPercent",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterDodgePercent",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterDeflectProjectile",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterManaLimitReserve",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaLimitReserveReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaLimitReserveModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterManaLimitReserveReductionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "characterGlobalReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeaponStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeaponDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterWeaponIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterMeleeStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterMeleeDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterMeleeIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterHuntingStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterHuntingDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterHuntingIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterStaffStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterStaffDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterStaffIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterShieldStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterShieldDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterShieldIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterArmorStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterArmorDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterArmorIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterJewelryStrengthReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterJewelryDexterityReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterJewelryIntelligenceReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "characterLevelReqReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": "ParameterStoreOffensive"
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "conversionInType",
+        "class": "picklist",
+        "type": "string",
+        "value": "",
+        "default_value": "Physical;Pierce;Elemental;Cold;Fire;Poison;Lightning;Life;Chaos;Aether;Stun"
+    },
+    {
+        "name": "conversionOutType",
+        "class": "picklist",
+        "type": "string",
+        "value": "",
+        "default_value": "Physical;Pierce;Elemental;Cold;Fire;Poison;Lightning;Life;Chaos;Aether;Stun"
+    },
+    {
+        "name": "conversionPercentage",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "conversionInType2",
+        "class": "picklist",
+        "type": "string",
+        "value": "",
+        "default_value": "Physical;Pierce;Elemental;Cold;Fire;Poison;Lightning;Life;Chaos;Aether;Stun"
+    },
+    {
+        "name": "conversionOutType2",
+        "class": "picklist",
+        "type": "string",
+        "value": "",
+        "default_value": "Physical;Pierce;Elemental;Cold;Fire;Poison;Lightning;Life;Chaos;Aether;Stun"
+    },
+    {
+        "name": "conversionPercentage2",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": "ParameterStoreDefensive"
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveProtection",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveProtectionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveProtectionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveProtectionModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAbsorption",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAbsorptionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAbsorptionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAbsorptionModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysical",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysicalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysicalModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysicalModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysicalDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysicalDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysicalDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysicalDurationChanceModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePhysicalMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierce",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierceChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierceModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierceModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierceDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierceDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierceDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierceDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePierceMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFire",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFireChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFireModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFireModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFireDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFireDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFireDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFireDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveFireMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAether",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAetherChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAetherModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAetherModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAetherDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAetherDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAetherDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAetherDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAetherMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaos",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaosChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaosModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaosModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaosDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaosDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaosDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaosDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveChaosMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveCold",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveColdChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveColdModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveColdModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveColdDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveColdDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveColdDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveColdDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveColdMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightning",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightningChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightningModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightningModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightningDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightningDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightningDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightningDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLightningMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoison",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoisonChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoisonModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoisonModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoisonDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoisonDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoisonDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoisonDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensivePoisonMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLife",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLifeModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLifeModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLifeDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLifeDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLifeDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLifeDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveLifeMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveDisruption",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveDisruptionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveDisruptionMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveElementalResistance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveElementalResistanceChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveElementalModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveBonusProtection",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveAllMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeach",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeachDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeachChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeachDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeachModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeachModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeachDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeachDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowLifeLeachMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeach",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeachDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeachChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeachDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeachModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeachModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeachDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeachDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSlowManaLeachMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveBleeding",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBleedingDuration",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBleedingChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBleedingDurationChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBleedingModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBleedingModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBleedingDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBleedingDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBleedingMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBlockModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBlockModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveBlockAmountModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveReflect",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveReflectChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveReflectModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveConfusion",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveConfusionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveTaunt",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveTauntChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveFear",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveFearChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveConvert",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveConvertChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveTrap",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveTrapChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveTrapMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensivePetrify",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensivePetrifyChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensivePetrifyMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveFreeze",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveFreezeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveFreezeMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveStun",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveStunChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveStunModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveStunModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveStunMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveKnockdown",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveKnockdownChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveKnockdownModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveKnockdownModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "defensiveSleep",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveSleepChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveSleepModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveSleepModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveSleepMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveManaBurn",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveManaBurnChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveManaBurnRatio",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveManaBurnRatioChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensivePercentCurrentLife",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensivePercentCurrentLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveTotalSpeedChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveTotalSpeedResistance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensiveTotalSpeedMaxResist",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensivePercentReflectionResistance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "defensivePercentReflectionResistanceChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": "ParameterStoreOffensive"
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveGlobalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveBaseColdMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseColdMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseColdChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseColdXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseColdGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseFireMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseFireMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseFireChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseFireXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseFireGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBasePoisonMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBasePoisonMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBasePoisonChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBasePoisonXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBasePoisonGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLightningMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLightningMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLightningChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLightningXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLightningGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLifeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLifeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLifeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseLifeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseChaosMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseChaosMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseChaosChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseChaosXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseChaosGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseAetherMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseAetherMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseAetherChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseAetherXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBaseAetherGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePhysicalMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePhysicalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePhysicalXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePhysicalGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePhysicalModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePhysicalModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceRatioMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceRatioMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceRatioChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceRatioXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceRatioGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceRatioModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceRatioModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePierceModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveColdMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveColdMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveColdChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveColdXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveColdGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveColdModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveColdModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFireMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFireMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFireChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFireXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFireGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFireModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFireModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveAetherMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveAetherMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveAetherChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveAetherXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveAetherGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveAetherModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveAetherModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveChaosMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveChaosMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveChaosChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveChaosXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveChaosGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveChaosModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveChaosModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePoisonMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePoisonMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePoisonChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePoisonXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePoisonGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePoisonModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePoisonModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLightningMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLightningMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLightningChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLightningXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLightningGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLightningModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLightningModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLifeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLifeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLifeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLifeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLifeModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveLifeModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePercentCurrentLifeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePercentCurrentLifeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePercentCurrentLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePercentCurrentLifeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensivePercentCurrentLifeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveManaBurnDrainMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveManaBurnDrainMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveManaBurnChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveManaBurnXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveManaBurnGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveManaBurnDamageRatio",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveManaBurnRatioAdder",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveManaBurnRatioAdderChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDisruptionMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDisruptionMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDisruptionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDisruptionXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDisruptionGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveLifeLeechMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveLifeLeechMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveLifeLeechChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveLifeLeechXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveLifeLeechGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveCritDamageXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveCritDamageGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveCritDamageModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveCritDamageModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDamageMultXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDamageMultGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDamageMultModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveDamageMultModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowPhysicalMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPhysicalDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowBleedingDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowColdDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowFireDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowPoisonDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLightningDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowTotalSpeedMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowTotalSpeedMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowTotalSpeedDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowTotalSpeedDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowTotalSpeedChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowTotalSpeedXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowTotalSpeedGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowAttackSpeedMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowAttackSpeedDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowRunSpeedDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowLifeLeachDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowManaLeachDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveAbilityDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveAbilityDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowOffensiveReductionDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDefensiveReductionDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFumbleMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFumbleMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFumbleDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFumbleDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFumbleChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFumbleXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFumbleGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveProjectileFumbleMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveProjectileFumbleMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveProjectileFumbleDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveProjectileFumbleDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveProjectileFumbleChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveProjectileFumbleXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveProjectileFumbleGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionPercentMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionPercentMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionPercentDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionPercentDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionPercentChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionPercentXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionPercentGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionAbsoluteMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionAbsoluteMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionAbsoluteDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionAbsoluteDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionAbsoluteChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionAbsoluteXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalDamageReductionAbsoluteGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalReductionPercentMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalReductionPercentMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalReductionPercentDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalReductionPercentDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalReductionPercentChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalReductionPercentXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalReductionPercentGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalReductionPercentMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalReductionPercentMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalReductionPercentDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalReductionPercentDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalReductionPercentChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalReductionPercentXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalReductionPercentGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionPercentMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionPercentMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionPercentDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionPercentDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionPercentChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionPercentXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionPercentGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionAbsoluteMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionAbsoluteMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionAbsoluteDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionAbsoluteDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionAbsoluteChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionAbsoluteXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTotalResistanceReductionAbsoluteGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionPercentMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionPercentMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionPercentDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionPercentDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionPercentChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionPercentXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionPercentGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionAbsoluteMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionAbsoluteMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionAbsoluteDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionAbsoluteDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionAbsoluteChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionAbsoluteXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePhysicalResistanceReductionAbsoluteGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionPercentMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionPercentMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionPercentDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionPercentDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionPercentChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionPercentXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionPercentGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionAbsoluteMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionAbsoluteMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionAbsoluteDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionAbsoluteDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionAbsoluteChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionAbsoluteXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveElementalResistanceReductionAbsoluteGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSlowDamageMultMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSlowDamageMultDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConvertMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConvertMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConvertChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConvertXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConvertGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveTauntMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveTauntMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveTauntChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveTauntXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveTauntGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFearMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFearMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFearChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFearXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveFearGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConfusionMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConfusionMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConfusionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConfusionXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveConfusionGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveTrapMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTrapMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTrapChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTrapXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTrapGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTrapModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveTrapModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFreezeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFreezeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFreezeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFreezeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFreezeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFreezeModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveFreezeModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePetrifyMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePetrifyMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePetrifyChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePetrifyXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePetrifyGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePetrifyModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensivePetrifyModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveStunMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveStunMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveStunChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveStunXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveStunGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveStunModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveStunModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveKnockdownMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveKnockdownMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveKnockdownChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveKnockdownXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveKnockdownGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveKnockdownModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveKnockdownModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveSleepMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSleepMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSleepChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSleepXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSleepGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSleepModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveSleepModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": "ParameterStoreOffensive"
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "retaliationGlobalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPhysicalMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPhysicalMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPhysicalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPhysicalXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPhysicalGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPhysicalModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPhysicalModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceRatioMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceRatioMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceRatioChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceRatioXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceRatioGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceRatioModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceRatioModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPierceModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationColdMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationColdMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationColdChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationColdXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationColdGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationColdModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationColdModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFireMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFireMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFireChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFireXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFireGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFireModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFireModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationAetherMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationAetherMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationAetherChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationAetherXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationAetherGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationAetherModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationAetherModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationChaosMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationChaosMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationChaosChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationChaosXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationChaosGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationChaosModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationChaosModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPoisonMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPoisonMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPoisonChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPoisonXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPoisonGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPoisonModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPoisonModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLightningMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLightningMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLightningChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLightningXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLightningGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLightningModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLightningModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLifeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLifeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLifeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLifeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLifeModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationLifeModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPercentCurrentLifeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPercentCurrentLifeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPercentCurrentLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPercentCurrentLifeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPercentcurrentLifeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationElementalMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationElementalMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationElementalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationElementalXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationElementalGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationElementalModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationElementalModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTotalDamageModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTotalDamageXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTotalDamageGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTotalDamageModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationDamageMultXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "retaliationDamageMultGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "retaliationDamageMultModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "retaliationDamageMultModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "retaliationSlowPhysicalMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPhysicalDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowBleedingDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowColdDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowFireDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowPoisonDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLightningDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowAttackSpeedDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowRunSpeedDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowLifeLeachDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowManaLeachDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveAbilityDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowDefensiveAbilityDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionDurationMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionDurationMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionDurationModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSlowOffensiveReductionDurationModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConvertMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConvertMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConvertChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConvertXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConvertGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFearMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFearMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFearChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFearXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFearGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConfusionMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConfusionMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConfusionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConfusionXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationConfusionGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTrapMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTrapMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTrapChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTrapXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationTrapGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFreezeMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFreezeMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFreezeChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFreezeXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationFreezeGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPetrifyMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPetrifyMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPetrifyChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPetrifyXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationPetrifyGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationStunMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationStunMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationStunChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationStunXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationStunGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationStunModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationStunModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSleepMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSleepMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSleepChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSleepXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSleepGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSleepModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "retaliationSleepModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": "ParameterStoreSkill"
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "skillCooldownReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "skillCooldownReductionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "skillManaCostReduction",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "skillManaCostReductionChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "skillCooldownReductionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "skillCooldownReductionModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "skillManaCostReductionModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "skillManaCostReductionModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "skillProjectileSpeedModifier",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "skillProjectileSpeedModifierChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "ActorName",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "Class",
+        "class": "static",
+        "type": "string",
+        "value": "",
+        "default_value": "ParameterStoreOffensive"
+    },
+    {
+        "name": "FileDescription",
+        "class": "variable",
+        "type": "string",
+        "value": "",
+        "default_value": ""
+    },
+    {
+        "name": "offensiveBonusPhysicalMin",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveBonusPhysicalMax",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveBonusPhysicalChance",
+        "class": "array",
+        "type": "real",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveBonusPhysicalXOR",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    },
+    {
+        "name": "offensiveBonusPhysicalGlobal",
+        "class": "variable",
+        "type": "bool",
+        "value": "",
+        "default_value": "0"
+    }
+]
