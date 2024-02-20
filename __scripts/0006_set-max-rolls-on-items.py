@@ -78,8 +78,7 @@ def max_out_items(item_dir, params_to_max):
 
         filtered = df.loc[
             (df["key"].isin(params_to_max))
-            & (df["value"].apply(lambda x: safe_parse_real(x)))
-            > 0,
+            # & (df["value"].apply(lambda x: safe_parse_real(x)))
         ]
 
         multiplier = None
@@ -88,6 +87,7 @@ def max_out_items(item_dir, params_to_max):
             multiplier = scaler
         if "lootRandomizerJitter" in skill_keys:
             multiplier = jitter
+        multiplier = 150.0  # Makes the stats roughly 2.5x of max.
         if multiplier:
             for fkey in filtered["key"].tolist():
                 if fkey == "characterBaseAttackSpeed":
